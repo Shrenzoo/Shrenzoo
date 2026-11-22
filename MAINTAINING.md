@@ -22,7 +22,7 @@
 - Each animated `<picture>` has a still source for `prefers-reduced-motion: reduce`; retain that source when replacing media.
 - `scripts/build_assets.py` builds `decision-light.svg`, `decision-dark.svg`, and both `-static.svg` variants with Python's standard library.
 - Rebuild the decision sketches with `python3 scripts/build_assets.py` after editing the generator.
-- `.github/workflows/contributions.yml` refreshes the contribution snake daily.
+- `.github/workflows/contributions.yml` refreshes the contribution snake at 08:17 UTC daily and allows manual dispatch.
 - `scripts/snake_posters.py` creates static alternatives for the snake's light and dark versions.
 - The snake workflow writes only contribution assets when their contents change.
 - Credit Platane/snk for the snake and the UNLOCK creators for the CAD animation.
