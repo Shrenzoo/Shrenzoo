@@ -16,7 +16,7 @@
 ## Media and motion
 
 - GitHub renders and sanitizes the README; use supported Markdown and HTML for layout and motion choices.
-- The UNLOCK GIF and poster files live in `Shrenzoo/unlock/assets/readme/`.
+- The UNLOCK GIF and poster files live in [`unlock/assets/readme`](https://github.com/Shrenzoo/unlock/tree/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme).
 - README media URLs pin a UNLOCK commit so later upstream changes cannot silently alter this page.
 - Keep light and dark variants paired when changing a visual.
 - Keep a still poster for every animated visual under `prefers-reduced-motion: reduce`.
