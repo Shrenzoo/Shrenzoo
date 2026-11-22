@@ -16,36 +16,21 @@
 
 ### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Shrenzoo/unlock"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/unlock-static.svg"><img src="assets/unlock.svg" width="100%" alt="UNLOCK — AI and mechanical repair"></picture></a>
-<p>AI-assisted redesign for mechanical repairability. Bounded CAD edits, checked by an independent geometric verifier.</p>
-<p><sub>Python · CadQuery · FastAPI · React · Three.js</sub></p>
-<a href="https://unlock-labs.pages.dev">Open demo</a> · <a href="https://github.com/Shrenzoo/unlock">Read the evidence</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Shrenzoo/diverge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/diverge-static.svg"><img src="assets/diverge.svg" width="100%" alt="Diverge — creative reasoning for coding agents"></picture></a>
-<p>A portable creative reasoning skill for Codex and Claude Code. Explore useful alternatives, then deliver within the constraints.</p>
-<p><sub>JavaScript · Node.js · Agent skills</sub></p>
-<a href="https://github.com/Shrenzoo/diverge#install">Install the skill</a> · <a href="https://github.com/Shrenzoo/diverge/tree/main/examples">See examples</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Shrenzoo/incident_bridge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/incident-bridge-static.svg"><img src="assets/incident-bridge.svg" width="100%" alt="IncidentBridge — AI agents collaborating on incident response"></picture></a>
-<p>A hackathon prototype connecting vendor and client AI agents during an incident, with field-level redaction and human approval.</p>
-<p><sub>TypeScript · Next.js · AICOO</sub></p>
-<a href="https://github.com/Shrenzoo/incident_bridge">Explore the simulation</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Shrenzoo/GoldPal"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/goldpal-static.svg"><img src="assets/goldpal.svg" width="100%" alt="GoldPal — an accessible iOS app for older adults"></picture></a>
-<p>A senior-friendly iOS project exploring AI assistance, safety check-ins, and simple, accessible interactions.</p>
-<p><sub>Swift · iOS · Accessibility</sub></p>
-<a href="https://github.com/Shrenzoo/GoldPal">Explore the app</a>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/Shrenzoo/unlock"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/unlock-static.svg"><img src="assets/unlock.svg" width="48%" alt="UNLOCK — AI and mechanical repair"></picture></a>
+<a href="https://github.com/Shrenzoo/diverge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/diverge-static.svg"><img src="assets/diverge.svg" width="48%" alt="Diverge — creative reasoning for coding agents"></picture></a>
+</p>
+
+- **[UNLOCK](https://github.com/Shrenzoo/unlock)** — AI-assisted redesign for mechanical repairability. Bounded CAD edits, checked by an independent geometric verifier. [Try the demo](https://unlock-labs.pages.dev).
+- **[Diverge](https://github.com/Shrenzoo/diverge)** — A portable creative reasoning skill for Codex and Claude Code. Explore useful alternatives, then deliver within the constraints. [Install](https://github.com/Shrenzoo/diverge#install).
+
+<p align="center">
+<a href="https://github.com/Shrenzoo/incident_bridge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/incident-bridge-static.svg"><img src="assets/incident-bridge.svg" width="48%" alt="IncidentBridge — AI incident response"></picture></a>
+<a href="https://github.com/Shrenzoo/GoldPal"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/goldpal-static.svg"><img src="assets/goldpal.svg" width="48%" alt="GoldPal — accessible iOS"></picture></a>
+</p>
+
+- **[IncidentBridge](https://github.com/Shrenzoo/incident_bridge)** — A hackathon prototype connecting vendor and client AI agents during an incident, with field-level redaction and human approval.
+- **[GoldPal](https://github.com/Shrenzoo/GoldPal)** — A senior-friendly Swift iOS project exploring AI assistance, safety check-ins, and accessible interactions.
 
 ### Inside the workshop
 
