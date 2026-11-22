@@ -30,3 +30,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 ## Publishing
 
 - The default branch is `main`; publish README and asset changes there to update the profile.
+- GitHub attributes commits by account identity; check the published commit's author when contribution counting matters.
