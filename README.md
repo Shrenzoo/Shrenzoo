@@ -36,7 +36,7 @@ An example from the project: a student may need to know what score to aim for mo
 
 [Install Diverge](https://github.com/Shrenzoo/diverge#install) · [Decision examples](https://github.com/Shrenzoo/diverge/blob/main/examples/decisions.md) · [Pilot evaluation](https://github.com/Shrenzoo/diverge/blob/main/evals/pilot/README.md)
 
-### Other experiments
+## Other experiments
 
 **[IncidentBridge](https://github.com/Shrenzoo/incident_bridge)** — Vendor and client agents working through an incident, with redaction and human approval. Hackathon prototype.
 
@@ -44,9 +44,7 @@ An example from the project: a student may need to know what score to aim for mo
 
 ## Inside the workshop
 
-Python, TypeScript, JavaScript, Swift, React, Next.js, FastAPI, and Three.js.
-
-My projects explore AI agents, developer tools, accessible software, and how software can change physical design.
+I work across Python, TypeScript, and Swift. My current focus: agent tools that make bounded decisions, software that helps people act, and CAD workflows that make products easier to repair.
 
 ## A year of building
 
