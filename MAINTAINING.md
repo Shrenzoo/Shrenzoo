@@ -6,3 +6,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 
 - Lead with work that a visitor can open, inspect, or run.
 - Keep project descriptions tied to the linked repositories and demos.
+- UNLOCK's CAD animation depicts the synthetic B05 battery fixture and a 12 mm strap move.
