@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="178" viewBox="0 0 440 178" role="img" aria-labelledby="title desc">
+<title id="title">Goldpal</title>
+<desc id="desc">GoldPal: Accessible iOS. Explore the project.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,Menlo,monospace}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="440" height="178" rx="18" fill="#101a20"/>
+<text x="25" y="45" font-size="15" fill="#acbec5" >Accessible iOS</text><text x="25" y="99" font-size="29" fill="#f2f6f4" font-weight="700" letter-spacing="-1">GoldPal</text><text x="25" y="143" font-size="14" fill="#8fe3c3" >Explore the project</text><g transform="translate(330 88)">
+      <circle r="53" fill="#ffbb7d" fill-opacity=".08"/>
+      <path d="M-29 -27H29V14H3L-13 28V14H-29Z" fill="none" stroke="#ffbb7d" stroke-width="2"/>
+      <g fill="#ffbb7d"><circle cx="-13" cy="-7" r="3"/>
+      <circle cy="-7" r="3"></circle><circle cx="13" cy="-7" r="3"/></g>
+    </g>
+</svg>
