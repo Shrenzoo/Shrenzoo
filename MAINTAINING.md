@@ -10,3 +10,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - Describe geometric checks as geometric checks; they do not establish strength or physical safety.
 - Diverge's grade-dashboard branch is an illustration from its README, not an observed test result.
 - The Diverge pilot has its own artifacts, scores, and limitations; link directly to them when mentioning it.
+- Keep IncidentBridge labeled as a hackathon prototype and GoldPal as an iOS project.
