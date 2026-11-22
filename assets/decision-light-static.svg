@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="title desc">
+<title id="title">One brief, two useful directions</title>
+<desc id="desc">Diverge's illustrative grade-dashboard example: add more charts, or help a student forecast the score they need. The forecast is the selected direction.</desc>
+<rect width="600" height="200" fill="#ffffff"/>
+<g fill="none" stroke="#9198a1" stroke-width="1.5" stroke-linejoin="round">
+  <rect x="12" y="64" width="176" height="72" rx="8"/>
+  <path d="M188 100 H232 Q252 100 252 80 V44 H324"/>
+  <path d="M188 100 H232 Q252 100 252 120 V152 H324" stroke="#0969da"/>
+  <rect x="324" y="12" width="264" height="64" rx="8"/>
+  <rect x="324" y="120" width="264" height="64" rx="8" stroke="#0969da"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#1f2328">
+  <text x="100" y="93" text-anchor="middle">Grade</text>
+  <text x="100" y="120" text-anchor="middle">dashboard</text>
+  <text x="348" y="52" fill="#59636e">More charts</text>
+  <text x="348" y="160">Forecast a score</text>
+</g>
+<path d="M550 151 l6 6 12 -14" fill="none" stroke="#0969da" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

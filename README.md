@@ -1,67 +1,71 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg">
-  <img src="assets/hero.svg" width="640" alt="Shreyas Pabbathi. Ideas into things you can use. AI tools, creative systems, and open source.">
-</picture>
+# Shreyas Pabbathi
 
-<p align="center">
-  <b>I build AI tools, creative systems, and software that solves practical problems.</b><br>
-  From helping agents think more creatively to making mechanical assemblies easier to repair.
-</p>
+I build tools for coding agents and experiment with AI in mechanical design.
 
-<p align="center">
-  <a href="https://unlock-labs.pages.dev"><b>Try UNLOCK</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/Shrenzoo/diverge"><b>Explore Diverge</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/Shrenzoo?tab=repositories"><b>All repositories</b></a>
-</p>
+[Try UNLOCK](https://unlock-labs.pages.dev) · [Explore Diverge](https://github.com/Shrenzoo/diverge)
 
-### Selected work
+## Selected work
 
-<p align="center">
-<a href="https://github.com/Shrenzoo/unlock"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/unlock-static.svg"><img src="assets/unlock.svg" width="300" alt="UNLOCK — AI and mechanical repair"></picture></a>
-<a href="https://github.com/Shrenzoo/diverge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/diverge-static.svg"><img src="assets/diverge.svg" width="300" alt="Diverge — creative reasoning for coding agents"></picture></a>
-</p>
+### UNLOCK
 
-- **[UNLOCK](https://github.com/Shrenzoo/unlock)** — AI-assisted redesign for mechanical repairability. Bounded CAD edits, checked by an independent geometric verifier. [Try the demo](https://unlock-labs.pages.dev).
-- **[Diverge](https://github.com/Shrenzoo/diverge)** — A portable creative reasoning skill for Codex and Claude Code. Explore useful alternatives, then deliver within the constraints. [Install](https://github.com/Shrenzoo/diverge#install).
+A battery trapped by its own mounting strap. UNLOCK proposes a bounded CAD edit; a separate verifier checks whether the part can come out.
 
-<p align="center">
-<a href="https://github.com/Shrenzoo/incident_bridge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/incident-bridge-static.svg"><img src="assets/incident-bridge.svg" width="300" alt="IncidentBridge — AI incident response"></picture></a>
-<a href="https://github.com/Shrenzoo/GoldPal"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/goldpal-static.svg"><img src="assets/goldpal.svg" width="300" alt="GoldPal — accessible iOS"></picture></a>
-</p>
+<a href="https://unlock-labs.pages.dev">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrenzoo/unlock/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme/hero-poster-dark.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Shrenzoo/unlock/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme/hero-poster-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrenzoo/unlock/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme/hero-dark.gif">
+    <img src="https://raw.githubusercontent.com/Shrenzoo/unlock/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme/hero-light.gif" width="640" alt="Real CAD render: a battery's removal path hits a strap. The strap moves 12 mm, checks pass, and the battery lifts out. Synthetic research fixture; physical safety is not assessed.">
+  </picture>
+</a>
 
-- **[IncidentBridge](https://github.com/Shrenzoo/incident_bridge)** — A hackathon prototype connecting vendor and client AI agents during an incident, with field-level redaction and human approval.
-- **[GoldPal](https://github.com/Shrenzoo/GoldPal)** — A senior-friendly Swift iOS project exploring AI assistance, safety check-ins, and accessible interactions.
+Research prototype, demonstrated on synthetic assemblies. A geometric pass does not establish strength or physical safety.
 
-### Inside the workshop
+[Open demo](https://unlock-labs.pages.dev) · [Code and evidence](https://github.com/Shrenzoo/unlock)
+
+### Diverge
+
+A creative reasoning skill for Codex and Claude Code. It helps an agent consider alternatives before implementation, while leaving exact fixes alone.
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workshop-static.svg">
-  <img src="assets/workshop.svg" width="640" alt="AI that helps. Interfaces that make sense. Build it. Try it. Make it better.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/decision-dark-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/decision-light-static.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/decision-dark.svg">
+  <img src="assets/decision-light.svg" width="600" alt="Illustrative example: a grade-dashboard brief branches into more charts or a score forecast. Diverge asks which option better helps the student decide what to do.">
 </picture>
 
-**Working with** Python, TypeScript, JavaScript, Swift, React, Next.js, FastAPI, and Three.js.
+An example from the project: a student may need to know what score to aim for more than they need another chart.
 
-**Interested in** AI agents, developer tools, accessible software, and the intersection of software and physical design.
+[Install Diverge](https://github.com/Shrenzoo/diverge#install) · [Examples and evaluations](https://github.com/Shrenzoo/diverge#one-observed-difference)
 
-### A year of building
+### Other experiments
+
+**[IncidentBridge](https://github.com/Shrenzoo/incident_bridge)** — Vendor and client agents working through an incident, with redaction and human approval. Hackathon prototype.
+
+**[GoldPal](https://github.com/Shrenzoo/GoldPal)** — A senior-friendly Swift iOS project exploring AI assistance, safety check-ins, and accessible interactions.
+
+## Inside the workshop
+
+Python, TypeScript, JavaScript, Swift, React, Next.js, FastAPI, and Three.js.
+
+My projects explore AI agents, developer tools, accessible software, and how software can change physical design.
+
+## A year of building
 
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/contributions-dark-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/contributions-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
-  <img src="assets/contributions.svg" width="640" alt="A snake travels across my GitHub contribution calendar. Updated daily from GitHub activity.">
+  <img src="assets/contributions.svg" width="640" alt="A snake eats its way through my GitHub contribution calendar. Updated daily from GitHub activity.">
 </picture>
 
-<p align="center">
-  <sub>Have an idea to improve something here? Open an issue in the project. I’d love to hear it.</sub>
-</p>
+Found something to improve? Open an issue in the project.
 
 <details>
-<summary>About this profile</summary>
+<summary>Colophon</summary>
 
-Original SVG artwork lives in this repository. Rebuild it with `python3 scripts/build_assets.py`. Animations include static alternatives for reduced-motion preferences. The contribution snake is generated daily with [Platane/snk](https://github.com/Platane/snk); no personal access token is required.
+The CAD animation comes from [UNLOCK](https://github.com/Shrenzoo/unlock), by Shreyas Pabbathi and Maanas Pabbathi. Synthetic fixture and render shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); reused without modification. The decision sketch illustrates an example documented in [Diverge](https://github.com/Shrenzoo/diverge); rebuild it with `python3 scripts/build_assets.py`.
 
-Inspired by the [Awesome GitHub Profile README gallery](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and [DenverCoder1’s animated profile](https://github.com/DenverCoder1). The artwork and layout were created for this profile.
+Contribution animation by [Platane/snk](https://github.com/Platane/snk). Animations have static alternatives for reduced-motion preferences. Design process guided by [unslop by Damir Sokolovsky](https://heydamir.design/unslop), CC BY 4.0.
 
 </details>
-
