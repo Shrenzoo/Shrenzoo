@@ -5,7 +5,7 @@
 ## Content
 
 - Lead with UNLOCK and Diverge, whose demos, source, and evidence a visitor can inspect.
-- Keep project descriptions tied to the linked repositories and demos.
+- Describe what each project does in plain language, then link the repository or demo that shows it.
 - UNLOCK's CAD animation depicts the synthetic B05 battery fixture and a 12 mm strap move.
 - Describe geometric checks as geometric checks; they do not establish strength or physical safety.
 - Diverge's grade-dashboard branch is an illustration from its README, not an observed test result.
