@@ -11,7 +11,7 @@
 - The [Diverge README](https://github.com/Shrenzoo/diverge) supplies the grade-dashboard illustration; it is not an observed test result.
 - The [Diverge pilot](https://github.com/Shrenzoo/diverge/blob/main/evals/pilot/README.md) records artifacts, scores, and limitations; link there for evaluation claims.
 - Keep [IncidentBridge](https://github.com/Shrenzoo/incident_bridge) labeled a hackathon prototype and [GoldPal](https://github.com/Shrenzoo/GoldPal) an iOS project.
-- Check that demo, source, example, and evidence links point to the specific promised destination.
+- Open each demo, source, example, and evidence link after changing it; the label should match its destination.
 
 ## Media and motion
 
