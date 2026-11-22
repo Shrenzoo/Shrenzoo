@@ -25,3 +25,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - `.github/workflows/contributions.yml` refreshes the contribution snake daily.
 - `scripts/snake_posters.py` creates static alternatives for the snake's light and dark versions.
 - The snake workflow writes only contribution assets when their contents change.
+- Credit Platane/snk for the snake and the UNLOCK creators for the CAD animation.
