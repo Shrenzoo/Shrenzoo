@@ -20,7 +20,7 @@
 - README media URLs pin UNLOCK commit `e57594c713ea4970b399c01c22192290f267dcd3`; check all four media paths before changing it.
 - Update light and dark variants together; review each against GitHub's matching theme.
 - Each animated `<picture>` has a still source for `prefers-reduced-motion: reduce`; retain that source when replacing media.
-- `scripts/build_assets.py` generates the four Diverge decision sketches with Python's standard library.
+- `scripts/build_assets.py` builds `decision-light.svg`, `decision-dark.svg`, and both `-static.svg` variants with Python's standard library.
 - Rebuild the decision sketches with `python3 scripts/build_assets.py` after editing the generator.
 - `.github/workflows/contributions.yml` refreshes the contribution snake daily.
 - `scripts/snake_posters.py` creates static alternatives for the snake's light and dark versions.
