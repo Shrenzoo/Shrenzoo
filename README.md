@@ -2,13 +2,7 @@
 
 I build tools for coding agents and experiment with AI in mechanical design.
 
-[Try UNLOCK](https://unlock-labs.pages.dev) · [Explore Diverge](https://github.com/Shrenzoo/diverge)
-
 ## Selected work
-
-### UNLOCK
-
-A battery trapped by its own mounting strap. UNLOCK proposes a bounded CAD edit; a separate verifier checks whether the part can come out.
 
 <a href="https://unlock-labs.pages.dev">
   <picture>
@@ -18,6 +12,10 @@ A battery trapped by its own mounting strap. UNLOCK proposes a bounded CAD edit;
     <img src="https://raw.githubusercontent.com/Shrenzoo/unlock/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme/hero-light.gif" width="640" alt="Real CAD render: a battery's removal path hits a strap. The strap moves 12 mm, checks pass, and the battery lifts out. Synthetic research fixture; physical safety is not assessed.">
   </picture>
 </a>
+
+### UNLOCK
+
+A battery trapped by its own mounting strap. UNLOCK proposes a bounded CAD edit; a separate verifier checks whether the part can come out.
 
 Research prototype, demonstrated on synthetic assemblies. A geometric pass does not establish strength or physical safety.
 
