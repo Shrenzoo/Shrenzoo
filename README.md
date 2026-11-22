@@ -19,7 +19,7 @@ A battery trapped by its own mounting strap. UNLOCK proposes a bounded CAD edit;
 
 Research prototype, demonstrated on synthetic assemblies. A geometric pass does not establish strength or physical safety.
 
-[Open demo](https://unlock-labs.pages.dev) · [Code and evidence](https://github.com/Shrenzoo/unlock)
+[Open demo](https://unlock-labs.pages.dev) · [Source](https://github.com/Shrenzoo/unlock) · [Measured evidence](https://github.com/Shrenzoo/unlock#10--measured-evidence)
 
 ### Diverge
 
