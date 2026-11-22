@@ -22,3 +22,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - Keep a still poster for every animated visual under `prefers-reduced-motion: reduce`.
 - `scripts/build_assets.py` generates the four Diverge decision sketches with Python's standard library.
 - Rebuild the decision sketches with `python3 scripts/build_assets.py` after editing the generator.
+- `.github/workflows/contributions.yml` refreshes the contribution snake daily.
