@@ -1,6 +1,6 @@
 # Maintaining this profile
 
-This repository is the source for the README shown on [Shreyas's GitHub profile](https://github.com/Shrenzoo).
+`README.md` on this repository's default branch appears on [Shreyas's GitHub profile](https://github.com/Shrenzoo).
 
 ## Content
 
