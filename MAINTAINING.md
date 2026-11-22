@@ -19,3 +19,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - The UNLOCK GIF and poster files live in `Shrenzoo/unlock/assets/readme/`.
 - README media URLs pin a UNLOCK commit so later upstream changes cannot silently alter this page.
 - Keep light and dark variants paired when changing a visual.
+- Keep a still poster for every animated visual under `prefers-reduced-motion: reduce`.
