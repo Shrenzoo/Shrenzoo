@@ -19,7 +19,7 @@
 - The UNLOCK GIF and poster files live in [`unlock/assets/readme`](https://github.com/Shrenzoo/unlock/tree/e57594c713ea4970b399c01c22192290f267dcd3/assets/readme).
 - README media URLs pin UNLOCK commit `e57594c713ea4970b399c01c22192290f267dcd3`; check all four media paths before changing it.
 - Update light and dark variants together; review each against GitHub's matching theme.
-- Keep a still poster for every animated visual under `prefers-reduced-motion: reduce`.
+- Each animated `<picture>` has a still source for `prefers-reduced-motion: reduce`; retain that source when replacing media.
 - `scripts/build_assets.py` generates the four Diverge decision sketches with Python's standard library.
 - Rebuild the decision sketches with `python3 scripts/build_assets.py` after editing the generator.
 - `.github/workflows/contributions.yml` refreshes the contribution snake daily.
