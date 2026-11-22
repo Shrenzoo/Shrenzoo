@@ -26,3 +26,7 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - `scripts/snake_posters.py` creates static alternatives for the snake's light and dark versions.
 - The snake workflow writes only contribution assets when their contents change.
 - Credit Platane/snk for the snake and the UNLOCK creators for the CAD animation.
+
+## Publishing
+
+- The default branch is `main`; publish README and asset changes there to update the profile.
