@@ -10,7 +10,7 @@
 - A geometric pass establishes a checked removal route under fixture constraints; it does not establish strength or physical safety.
 - The [Diverge README](https://github.com/Shrenzoo/diverge) supplies the grade-dashboard illustration; it is not an observed test result.
 - The [Diverge pilot](https://github.com/Shrenzoo/diverge/blob/main/evals/pilot/README.md) records artifacts, scores, and limitations; link there for evaluation claims.
-- Keep IncidentBridge labeled as a hackathon prototype and GoldPal as an iOS project.
+- Keep [IncidentBridge](https://github.com/Shrenzoo/incident_bridge) labeled a hackathon prototype and [GoldPal](https://github.com/Shrenzoo/GoldPal) an iOS project.
 - Check that demo, source, example, and evidence links point to the specific promised destination.
 
 ## Media and motion
