@@ -64,4 +64,6 @@ The CAD animation comes from [UNLOCK](https://github.com/Shrenzoo/unlock), by Sh
 
 Contribution animation by [Platane/snk](https://github.com/Platane/snk). Animations have static alternatives for reduced-motion preferences. Design process guided by [unslop by Damir Sokolovsky](https://heydamir.design/unslop), CC BY 4.0.
 
+For updates to this profile, see [the maintenance guide](MAINTAINING.md).
+
 </details>
