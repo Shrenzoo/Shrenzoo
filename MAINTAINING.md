@@ -29,7 +29,7 @@
 
 ## Publishing
 
-- The default branch is `main`; publish README and asset changes there to update the profile.
+- The profile repository matches the username `Shrenzoo`; publishing `README.md` and assets on `main` updates the profile.
 - GitHub attributes commits by account identity; check the published commit's author when contribution counting matters.
 - When changing the pinned UNLOCK commit, verify the referenced GIF and poster paths in that exact commit.
 - Give each image alt text that explains the meaningful result without requiring motion.
