@@ -17,3 +17,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 
 - GitHub renders this profile as a README; use supported Markdown and HTML rather than page scripts.
 - The UNLOCK GIF and poster files live in `Shrenzoo/unlock/assets/readme/`.
+- README media URLs pin a UNLOCK commit so later upstream changes cannot silently alter this page.
