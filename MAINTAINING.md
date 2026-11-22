@@ -31,3 +31,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 
 - The default branch is `main`; publish README and asset changes there to update the profile.
 - GitHub attributes commits by account identity; check the published commit's author when contribution counting matters.
+- When changing the pinned UNLOCK commit, verify the referenced GIF and poster paths in that exact commit.
