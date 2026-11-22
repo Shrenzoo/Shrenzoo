@@ -8,7 +8,7 @@
 - Describe what each project does in plain language, then link the repository or demo that shows it.
 - The [UNLOCK CAD animation](https://github.com/Shrenzoo/unlock/tree/main/assets/readme) depicts the synthetic B05 battery fixture and a 12 mm strap move.
 - A geometric pass establishes a checked removal route under fixture constraints; it does not establish strength or physical safety.
-- Diverge's grade-dashboard branch is an illustration from its README, not an observed test result.
+- The [Diverge README](https://github.com/Shrenzoo/diverge) supplies the grade-dashboard illustration; it is not an observed test result.
 - The Diverge pilot has its own artifacts, scores, and limitations; link directly to them when mentioning it.
 - Keep IncidentBridge labeled as a hackathon prototype and GoldPal as an iOS project.
 - Check that demo, source, example, and evidence links point to the specific promised destination.
