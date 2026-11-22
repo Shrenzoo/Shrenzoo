@@ -34,3 +34,7 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - When changing the pinned UNLOCK commit, verify the referenced GIF and poster paths in that exact commit.
 - Give each image alt text that explains the meaningful result without requiring motion.
 - Keep synthetic-research and evaluation limits near the claims they qualify.
+
+## Quick checks
+
+- Run `python3 scripts/build_assets.py` before reviewing a decision-sketch change.
