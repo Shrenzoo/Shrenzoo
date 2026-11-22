@@ -4,7 +4,7 @@
 
 ## Content
 
-- Lead with work that a visitor can open, inspect, or run.
+- Lead with UNLOCK and Diverge, whose demos, source, and evidence a visitor can inspect.
 - Keep project descriptions tied to the linked repositories and demos.
 - UNLOCK's CAD animation depicts the synthetic B05 battery fixture and a 12 mm strap move.
 - Describe geometric checks as geometric checks; they do not establish strength or physical safety.
