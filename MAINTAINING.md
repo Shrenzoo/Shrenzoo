@@ -12,3 +12,7 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - The Diverge pilot has its own artifacts, scores, and limitations; link directly to them when mentioning it.
 - Keep IncidentBridge labeled as a hackathon prototype and GoldPal as an iOS project.
 - Check that demo, source, example, and evidence links point to the specific promised destination.
+
+## Media and motion
+
+- GitHub renders this profile as a README; use supported Markdown and HTML rather than page scripts.
