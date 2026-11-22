@@ -6,7 +6,7 @@
 
 - Lead with UNLOCK and Diverge, whose demos, source, and evidence a visitor can inspect.
 - Describe what each project does in plain language, then link the repository or demo that shows it.
-- UNLOCK's CAD animation depicts the synthetic B05 battery fixture and a 12 mm strap move.
+- The [UNLOCK CAD animation](https://github.com/Shrenzoo/unlock/tree/main/assets/readme) depicts the synthetic B05 battery fixture and a 12 mm strap move.
 - Describe geometric checks as geometric checks; they do not establish strength or physical safety.
 - Diverge's grade-dashboard branch is an illustration from its README, not an observed test result.
 - The Diverge pilot has its own artifacts, scores, and limitations; link directly to them when mentioning it.
