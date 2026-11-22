@@ -34,7 +34,7 @@ A creative reasoning skill for Codex and Claude Code. It helps an agent consider
 
 An example from the project: a student may need to know what score to aim for more than they need another chart.
 
-[Install Diverge](https://github.com/Shrenzoo/diverge#install) · [Examples and evaluations](https://github.com/Shrenzoo/diverge#one-observed-difference)
+[Install Diverge](https://github.com/Shrenzoo/diverge#install) · [Decision examples](https://github.com/Shrenzoo/diverge/blob/main/examples/decisions.md) · [Pilot evaluation](https://github.com/Shrenzoo/diverge/blob/main/evals/pilot/README.md)
 
 ### Other experiments
 
