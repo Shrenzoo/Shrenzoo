@@ -23,3 +23,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 - `scripts/build_assets.py` generates the four Diverge decision sketches with Python's standard library.
 - Rebuild the decision sketches with `python3 scripts/build_assets.py` after editing the generator.
 - `.github/workflows/contributions.yml` refreshes the contribution snake daily.
+- `scripts/snake_posters.py` creates static alternatives for the snake's light and dark versions.
