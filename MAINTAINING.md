@@ -39,5 +39,5 @@
 
 - Run `python3 scripts/build_assets.py` before reviewing a decision-sketch change.
 - Parse each generated SVG as XML and inspect both color schemes.
-- Check that the static variants contain no SVG animation elements.
+- Check decision-sketch stills for absent `animateMotion`; check snake posters for their animation-disabling CSS rule.
 - Review the profile on GitHub after publishing; README rendering can differ from local previews.
