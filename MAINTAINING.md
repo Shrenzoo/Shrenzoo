@@ -38,3 +38,4 @@ This repository is the source for the README shown on [Shreyas's GitHub profile]
 ## Quick checks
 
 - Run `python3 scripts/build_assets.py` before reviewing a decision-sketch change.
+- Parse each generated SVG as XML and inspect both color schemes.
